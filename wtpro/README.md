@@ -1,0 +1,1 @@
+In this project i have built a small blog website about coffee from a hypothetical company CoffeCo and in the contact us page i have used XAMPP and php to store the info entered by any uder on contact us page form which is then stored in sql.
