@@ -1,3 +1,3 @@
-# CoffeCo
-We created a Coffee Blog website for a hypothetical firm called CoffeCo using HTML CSS JS and PHP and hosted using XAMPP, and on our contact us page, we've included a form where visitors may provide their basic information, as well as a description of their problem or any suggestions for CoffeeCo. The data entered by user on contact page is stored in an Oracle database.
-The site's administrator / owner may then analyse the data, which can help the company improve.
+# CoffeCo Coffee blog website hosted using XAMPP and Oracle used to store customer form details [Academic Project]
+We used HTML, CSS, JS, PHP, and XAMPP to construct a website for a fictitious company named CoffeCo. On our contact page, we've included a form where visitors can submit their contact information as well as a description of their issue or any suggestions they may have for CoffeeCo. The information that users provide on the contact page is kept in an Oracle database.
+The owner or administrator of the website can then analyse the information to help the business grow.
